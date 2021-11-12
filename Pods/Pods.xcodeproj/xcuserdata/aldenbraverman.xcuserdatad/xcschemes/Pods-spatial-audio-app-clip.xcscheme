@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2DF2BAB35F3F75D9BB921110D540E835"
-               BuildableName = "Pods-spatial-audio-app-clip.framework"
+               BuildableName = "Pods_spatial_audio_app_clip.framework"
                BlueprintName = "Pods-spatial-audio-app-clip"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
